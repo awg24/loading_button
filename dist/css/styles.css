@@ -1,8 +1,11 @@
+body {
+	display: flex;
+	justify-content: center;
+	padding: 300px;
+}
+
 button {
   height: 100px;
   width: 200px;
   text-align: center;
-  font-size: 30px;
-  position: absolute;
-  top: 40%;
-  left: 45%; }
+  font-size: 30px;}
